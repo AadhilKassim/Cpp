@@ -6,4 +6,6 @@ Installed and configured C++ compilers in VSCode. Configured Intellisense and co
 
 ## Day2
 
-Refreshed on the topic Number Systems. Created program to store and display these numbers.
+Refreshed on the topic Number Systems. Created program to store and display these numbers. 
+Explored inegral(int) modifiers and found out its sizes and uses.
+Tried out sizeof operator, different initialisations, and floating number types. 
