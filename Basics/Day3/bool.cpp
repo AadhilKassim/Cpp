@@ -23,7 +23,11 @@ int main()
    {
     cout << "Stop!" << endl; //Here thisline will run
    }
-
+   /*Printing boolean results in 
+   1--> True
+   0--> False */
+   cout << "Red light: " << rlight << endl;
+   cout << "Green light: " << glight << endl;
 
     return 0;
 }
