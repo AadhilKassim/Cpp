@@ -29,5 +29,11 @@ int main()
    cout << "Red light: " << rlight << endl;
    cout << "Green light: " << glight << endl;
 
+   // Sets the output of boolean as:
+   //true and false
+   cout << boolalpha;
+   cout << "Red light: " << rlight << endl;
+   cout << "Green light: " << glight << endl;
+
     return 0;
 }
