@@ -14,3 +14,6 @@ Carried out different arithmetic operations and tried out boolean and auto datat
 
 ## Day4
 Today is sunday and I feel lazy. Todays lectures were longer than usual. Understood and applied use of Prefix and Post fix methods of increment and decrement. Worked on relational operators and moved onto logical operators. Tried combining both relational and logical operators. Next topic is text formating in terminal, which I watched but will try it out tomorrow.
+
+## Day5
+Tried out Cmath library available in C++. Next part of todays lecture was if, if else, else if, switch, and ternary operator. 
