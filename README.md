@@ -20,3 +20,6 @@ Tried out Cmath library available in C++. Next part of todays lecture was if, if
 
 ## Day6
 For today main topic was loops. Tried out for, while, and do while loops. Next part deals with arrays. How to print data from arrays and how to get data into array using loops. Character arrays and C-string relation along with how to print them.
+
+## Day7
+Tried out pointers, how they work. Pointers to char and what are ther uses. 
