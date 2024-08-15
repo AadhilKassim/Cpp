@@ -23,3 +23,6 @@ For today main topic was loops. Tried out for, while, and do while loops. Next p
 
 ## Day7
 Tried out pointers, how they work. Pointers to char and what are ther uses. 
+
+## Day8
+Todays lectures were continuation of pointer. How dynamic allocation of memory works, what are new and delete operators, and tried out different ways of allocation and deallocation. Next part is dangling pointers. What happens to programs on operating on pointers. Moved on to Failure of new operator, how to check for it. Although its rare. Last lecture was on nullpointer safety. 
