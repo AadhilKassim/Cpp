@@ -27,5 +27,10 @@ int main()
     
     cout << "All is well" << endl;
 
+    delete p1;
+    p = nullptr;
+    p1=nullptr;
+
+    //Always make sure to delete the allocated memory
     return 0;
 }
