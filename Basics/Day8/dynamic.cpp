@@ -15,5 +15,7 @@ int main()
     p=nullptr; // reinitialising null
 
     cout << "Value in p: " << p << endl;
+
+    //pointers are reusable after deletion of dynamically allocated memory
     return 0;
 }  
