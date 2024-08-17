@@ -29,3 +29,6 @@ Todays lectures were continuation of pointer. How dynamic allocation of memory w
 
 ## Day9
 Todays lecture was on dynamin array allocation and the differences between stack array and heap array. Next was references. What are references, how they can be used (same as the original variable), and its uses were discussed.
+
+## Day10
+Tried out string in C++, will go into more detail some other day. Next is functions of C++. Tried out some basic format of creating functions. 
