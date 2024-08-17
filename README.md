@@ -26,3 +26,6 @@ Tried out pointers, how they work. Pointers to char and what are ther uses.
 
 ## Day8
 Todays lectures were continuation of pointer. How dynamic allocation of memory works, what are new and delete operators, and tried out different ways of allocation and deallocation. Next part is dangling pointers. What happens to programs on operating on pointers. Moved on to Failure of new operator, how to check for it. Although its rare. Last lecture was on nullpointer safety. 
+
+## Day9
+Todays lecture was on dynamin array allocation and the differences between stack array and heap array. Next was references. What are references, how they can be used (same as the original variable), and its uses were discussed.
