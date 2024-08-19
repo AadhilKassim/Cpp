@@ -32,3 +32,7 @@ Todays lecture was on dynamin array allocation and the differences between stack
 
 ## Day10
 Tried out string in C++, will go into more detail some other day. Next is functions of C++. Tried out some basic format of creating functions. 
+
+## Day11
+Day 11 had some serious build issues when trying to compile multiple files on g++ and gcc compilers. Writing this on the 12th day. Created a header file tried out how it works. 
+
