@@ -38,3 +38,7 @@ Day 11 had some serious build issues when trying to compile multiple files on g+
 
 ## Day12
 Discussed on fuction types. Pass by value and pass by pointer. Where pass by value creates a copy of the value in the function which can be worked on without change in the original variable. And pass by value uses a pointer to the variable and is used to work on the original variable. Discussed about lambda fuctions will try them tomorrow.
+
+## Day13
+
+simple
